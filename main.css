@@ -136,7 +136,7 @@ body{
     cursor: pointer;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 900px) {
     .items{
         display: grid;
         grid-template-columns: repeat(4, auto);
@@ -161,7 +161,7 @@ body{
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     .flex{
         margin-top: 5rem;
     }
